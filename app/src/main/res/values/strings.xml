@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DG_ForegroundService</string>
+    <string name="notification_name">ForegroundServices</string>
+    <string name="title">ForegroundService</string>
+    <string name="message_start">MainActivity</string>
+    <string name="message_2_user">MainActivity</string>
+    <string name="message_stop">MainActivity</string>
+</resources>
